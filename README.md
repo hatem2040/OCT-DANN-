@@ -24,5 +24,7 @@ The DANN model achieved a high accuracy in predicting plaque types. The 3D visua
 ![Example Visualization](visualisations/GA_OCT_3D_Plot.png)
 
 
+## License
+This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
 
